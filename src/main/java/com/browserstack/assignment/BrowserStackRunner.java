@@ -59,7 +59,8 @@ public class BrowserStackRunner {
         bstackOptions.put("os", os);
         bstackOptions.put("osVersion", osVersion);
         bstackOptions.put("sessionName", threadName + " - El Pais Scraper");
-        bstackOptions.put("buildName", "CE Assignment");
+        bstackOptions.put("buildName", "BrowserStack CE Assignment Submission");
+        bstackOptions.put("idleTimeout", 180);
 
         options.setCapability("bstack:options", bstackOptions);
         return options;
@@ -74,7 +75,8 @@ public class BrowserStackRunner {
         bstackOptions.put("osVersion", osVersion);
         bstackOptions.put("realMobile", true);
         bstackOptions.put("sessionName", threadName + " - El Pais Scraper");
-        bstackOptions.put("buildName", "CE Assignment");
+        bstackOptions.put("buildName", "BrowserStack CE Assignment Submission");
+        bstackOptions.put("idleTimeout", 180);
 
         options.setCapability("bstack:options", bstackOptions);
         return options;

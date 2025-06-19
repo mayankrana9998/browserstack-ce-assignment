@@ -102,6 +102,8 @@ public class Scraper {
 
         } catch (Exception e) {
             output.append("❌ Exception: ").append(e.getMessage()).append("\n");
+        } finally {
+            driver.quit();
         }
 
         System.out.print(output.toString());
