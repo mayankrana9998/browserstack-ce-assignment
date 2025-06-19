@@ -73,6 +73,6 @@ Submitted as part of **Round 2** of the **BrowserStack Customer Engineering hiri
 
 **Mayank Rana**  
 📍 Noida, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/mayank-rana-5a5628310/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mayank-rana-5a5628310/) 
 ✉️ mayankrana720@gmail.com
 
