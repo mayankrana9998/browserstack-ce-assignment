@@ -1,6 +1,6 @@
 # BrowserStack CE Assignment
 
-This repository contains my technical assignment for the **Customer Engineering role at BrowserStack**.
+This repository contains my technical assignment for the **BrowserStack**.
 
 The project demonstrates:
 
