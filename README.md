@@ -1,4 +1,4 @@
-# BrowserStack CE Assignment
+# BrowserStack Assignment
 
 This repository contains my technical assignment for the **BrowserStack**.
 
@@ -60,14 +60,6 @@ com.browserstack.assignment/
 the: 3 times
 
 to: 2 times
-
----
-
-## 📬 Submission
-
-Submitted as part of **Round 2** of the **BrowserStack Customer Engineering hiring process**.
-
----
 
 ## 👤 Author
 
